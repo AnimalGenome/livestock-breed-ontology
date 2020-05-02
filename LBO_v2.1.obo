@@ -1,8 +1,7 @@
 format-version: 1.2
-data-version: 5.4
-date: 28:03:2020 10:17
+date: 09:01:2017 10:56
 saved-by: caripark
-auto-generated-by: OBO-Edit 2.3.1
+auto-generated-by: OBO-Edit 2.1
 default-namespace: default_namespace
 
 [Term]
@@ -637,8 +636,7 @@ creation_date: 2011-08-19T09:27:50Z
 
 [Term]
 id: LBO:0000090
-name: Dølafe
-synonym: "Dolafe" EXACT []
+name: Dolafe
 is_a: LBO:0000001 ! cattle breed
 created_by: caripark
 creation_date: 2011-08-19T09:27:50Z
@@ -701,8 +699,7 @@ creation_date: 2011-08-19T09:27:50Z
 
 [Term]
 id: LBO:0000099
-name: Evolène
-synonym: "Evolene" EXACT []
+name: Evolene
 is_a: LBO:0000001 ! cattle breed
 created_by: caripark
 creation_date: 2011-08-19T09:27:50Z
@@ -1316,7 +1313,7 @@ creation_date: 2011-08-19T09:27:50Z
 
 [Term]
 id: LBO:0000186
-name: Montbeliarde
+name: Montbeliard
 is_a: LBO:0000001 ! cattle breed
 created_by: caripark
 creation_date: 2011-08-19T09:27:50Z
@@ -1491,8 +1488,7 @@ creation_date: 2011-08-19T09:27:50Z
 
 [Term]
 id: LBO:0000211
-name: Rätien Gray
-synonym: "Ratien Gray" EXACT []
+name: Ratien Gray
 synonym: "Ratische Grauvieh" EXACT []
 is_a: LBO:0000001 ! cattle breed
 created_by: caripark
@@ -2027,7 +2023,6 @@ creation_date: 2011-08-19T09:49:27Z
 [Term]
 id: LBO:0000287
 name: Catalana
-synonym: "Catalana del Prat Lleonada" EXACT []
 is_a: LBO:0000002 ! chicken breed
 created_by: caripark
 creation_date: 2011-08-19T09:49:27Z
@@ -2826,8 +2821,6 @@ creation_date: 2011-08-19T10:01:45Z
 [Term]
 id: LBO:0000400
 name: Swabian-Hall
-synonym: "Schwäbisch-Hällisches Schwein" EXACT []
-synonym: "Swabian Hall Swine" EXACT []
 is_a: LBO:0000003 ! pig breed
 created_by: caripark
 creation_date: 2011-08-19T10:01:45Z
@@ -2912,7 +2905,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000412
 name: Africana
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -2996,14 +2989,14 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000424
 name: Argentine Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
 [Term]
 id: LBO:0000425
 name: Arles Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3059,7 +3052,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000433
 name: Barbados Blackbelly
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3143,7 +3136,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000445
 name: Booroola Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3178,7 +3171,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000450
 name: Brazilian Somali
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3374,7 +3367,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000478
 name: Damara
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3402,7 +3395,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000482
 name: Delaine Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3416,7 +3409,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000484
 name: Dorper
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3500,7 +3493,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000496
 name: Fonthill Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3549,7 +3542,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000503
 name: German Mutton Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3738,7 +3731,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000530
 name: Karacabey Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3759,7 +3752,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000533
 name: Katahdin
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3892,7 +3885,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000552
 name: Masai
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3906,7 +3899,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000554
 name: Medium-Wool Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3927,7 +3920,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000557
 name: Merinolandschaf
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -3948,7 +3941,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000560
 name: Morada Nova
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4045,8 +4038,8 @@ creation_date: 2011-08-19T10:47:24Z
 
 [Term]
 id: LBO:0000574
-name: Pelibüey
-is_a: LBO:0001068 ! Hair sheep breed
+name: Pelibuey
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4074,7 +4067,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000578
 name: Poll Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4151,7 +4144,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000589
 name: Rabo Largo
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4242,7 +4235,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000602
 name: Royal White
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4270,7 +4263,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000606
 name: Sahel-type
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4290,8 +4283,8 @@ creation_date: 2011-08-19T10:47:24Z
 
 [Term]
 id: LBO:0000609
-name: Santa Inês
-is_a: LBO:0001068 ! Hair sheep breed
+name: Santa Ines
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4354,7 +4347,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000618
 name: Somali
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4368,14 +4361,14 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000620
 name: South African Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
 [Term]
 id: LBO:0000621
 name: South African Mutton Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4425,7 +4418,7 @@ creation_date: 2011-08-19T10:47:24Z
 id: LBO:0000628
 name: St. Croix
 synonym: "Virgin Island White" EXACT []
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4446,7 +4439,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000631
 name: Strong Wool Merino
-is_a: LBO:0001067 ! Merino type
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4488,8 +4481,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000637
 name: Swiss White Alpine
-def: "OBSOLETE (duplicate). See LBO:0001065" []
-is_obsolete: true
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4531,7 +4523,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000643
 name: Touabire
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4573,7 +4565,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000649
 name: Uda
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4671,7 +4663,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000663
 name: West African Dwarf
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -4713,7 +4705,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000669
 name: Wiltshire Horn
-is_a: LBO:0001068 ! Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -7287,7 +7279,7 @@ id: LBO:0001035
 name: Swabian Hall
 synonym: "Schwäbisch-Hällische Landschwein" EXACT []
 synonym: "Swabian-Hall swine" EXACT []
-is_obsolete: true
+is_a: LBO:0000003 ! pig breed
 created_by: caripark
 creation_date: 2015-12-21T03:18:44Z
 
@@ -7487,199 +7479,4 @@ name: Vorderwald
 is_a: LBO:0000001 ! cattle breed
 created_by: caripark
 creation_date: 2017-01-09T10:56:13Z
-
-[Term]
-id: LBO:0001064
-name: Jeju
-is_a: LBO:0000713 ! horse breed
-created_by: caripark
-creation_date: 2017-11-21T10:33:15Z
-
-[Term]
-id: LBO:0001065
-name: Swiss White Alpine
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2017-12-20T12:49:27Z
-
-[Term]
-id: LBO:0001066
-name: Menorquín
-is_a: LBO:0000713 ! horse breed
-created_by: caripark
-creation_date: 2018-01-24T13:42:10Z
-
-[Term]
-id: LBO:0001067
-name: Merino type
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2018-01-29T10:15:21Z
-
-[Term]
-id: LBO:0001068
-name: Hair sheep breed
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2018-01-29T10:21:39Z
-
-[Term]
-id: LBO:0001069
-name: Blackhead Persian
-is_a: LBO:0001068 ! Hair sheep breed
-created_by: caripark
-creation_date: 2018-01-29T10:28:41Z
-
-[Term]
-id: LBO:0001070
-name: Empordanesa
-synonym: "Empordanesa Roja" NARROW []
-is_a: LBO:0000002 ! chicken breed
-created_by: caripark
-creation_date: 2018-04-24T12:24:54Z
-
-[Term]
-id: LBO:0001071
-name: Penedesenca
-synonym: "Penedesenca Negra" RELATED []
-is_a: LBO:0000002 ! chicken breed
-created_by: caripark
-creation_date: 2018-04-24T12:30:12Z
-
-[Term]
-id: LBO:0001072
-name: Lacaune
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2018-05-03T15:09:42Z
-
-[Term]
-id: LBO:0001073
-name: Duolang
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2018-07-17T08:31:27Z
-
-[Term]
-id: LBO:0001074
-name: Casertana
-is_a: LBO:0000003 ! pig breed
-created_by: caripark
-creation_date: 2018-09-06T13:54:30Z
-
-[Term]
-id: LBO:0001075
-name: Valle del Belice
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2018-11-21T11:49:09Z
-
-[Term]
-id: LBO:0001076
-name: Scandinavian Coldblood Trotter
-def: "May belong to ether of two closely related and interconnected breeds: Norsk Kalkblodstraver (Norwegian Coldblood Trotter) or Svensk Kallblodstravare (Swedish Coldblood Trotter)" [https://en.wikipedia.org/wiki/Scandinavian_coldblood_trotter]
-is_a: LBO:0000713 ! horse breed
-created_by: caripark
-creation_date: 2018-11-21T13:23:01Z
-
-[Term]
-id: LBO:0001077
-name: White Composite
-is_a: LBO:0000003 ! pig breed
-created_by: caripark
-creation_date: 2019-01-14T09:12:12Z
-
-[Term]
-id: LBO:0001078
-name: Kazakh Whiteheaded
-def: "Hardy beef breed from Russia and Kazakhstan." [http://en.wikipedia.org/wiki/Kazakh_Whiteheaded]
-is_a: LBO:0000001 ! cattle breed
-created_by: caripark
-creation_date: 2019-04-18T14:17:19Z
-
-[Term]
-id: LBO:0001079
-name: German Black Pied
-def: "Dairy breed that originated in the North Sea coast regions of northern Germany and the Netherlands." [http://en.wikipedia.org/wiki/German_Black_Pied_cattle]
-synonym: "Deutsches Schwarzbuntes Niederungsrind" EXACT []
-is_a: LBO:0000001 ! cattle breed
-created_by: caripark
-creation_date: 2019-04-19T13:16:13Z
-
-[Term]
-id: LBO:0001080
-name: Rendena
-is_a: LBO:0000001 ! cattle breed
-created_by: caripark
-creation_date: 2019-06-18T09:58:06Z
-
-[Term]
-id: LBO:0001081
-name: Sushan
-is_a: LBO:0000003 ! pig breed
-created_by: caripark
-creation_date: 2019-06-18T10:19:21Z
-
-[Term]
-id: LBO:0001082
-name: Sujiang
-is_a: LBO:0000003 ! pig breed
-created_by: caripark
-creation_date: 2019-07-26T13:14:53Z
-
-[Term]
-id: LBO:0001083
-name: Jing Hong
-is_a: LBO:0000002 ! chicken breed
-created_by: caripark
-creation_date: 2019-07-26T13:16:25Z
-
-[Term]
-id: LBO:0001084
-name: Jiangquhai
-is_a: LBO:0000003 ! pig breed
-created_by: caripark
-creation_date: 2019-07-26T13:58:32Z
-
-[Term]
-id: LBO:0001085
-name: Muzaffarnagari
-def: "Largest and heaviest sheep breed in India; well-adapted to heat and humidity." [https://doi.org/10.1017/S1014233900001322]
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2020-01-29T09:34:51Z
-
-[Term]
-id: LBO:0001086
-name: Malpura
-def: "Native Indian breed with good wool and milk production." [https://www.sheepfarm.in/malpura-sheep-breed-profile-information]
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2020-01-29T09:41:07Z
-
-[Term]
-id: LBO:0001087
-name: Barki
-def: "One of the main sheep breeds in Egypt, well-adapted to the desert environment." [PMID:31979402]
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2020-02-03T16:31:37Z
-
-[Term]
-id: LBO:0001088
-name: Nagoya
-def: "Japanese dual-purpose breed; excellent layers of light brown eggs" [https://www.domesticforest.com/nagoya-chicken/]
-is_a: LBO:0000002 ! chicken breed
-created_by: caripark
-creation_date: 2020-03-02T09:25:05Z
-
-[Term]
-id: LBO:0001089
-name: Polverara
-def: "Ancient Italian dual-purpose crested chicken breed; has two recognized colors, black and white." [https://en.wikipedia.org/wiki/Polverara_chicken]
-synonym: "S'ciata" EXACT []
-synonym: "Schiatta" EXACT []
-is_a: LBO:0000002 ! chicken breed
-created_by: caripark
-creation_date: 2020-03-26T14:32:24Z
 

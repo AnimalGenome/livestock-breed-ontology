@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 5.1
-date: 29:01:2020 09:44
+data-version: 3.6
+date: 21:11:2018 11:54
 saved-by: caripark
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: default_namespace
@@ -4488,8 +4488,7 @@ creation_date: 2011-08-19T10:47:24Z
 [Term]
 id: LBO:0000637
 name: Swiss White Alpine
-def: "OBSOLETE (duplicate). See LBO:0001065" []
-is_obsolete: true
+is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2011-08-19T10:47:24Z
 
@@ -7573,87 +7572,4 @@ name: Valle del Belice
 is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2018-11-21T11:49:09Z
-
-[Term]
-id: LBO:0001076
-name: Scandinavian Coldblood Trotter
-def: "May belong to ether of two closely related and interconnected breeds: Norsk Kalkblodstraver (Norwegian Coldblood Trotter) or Svensk Kallblodstravare (Swedish Coldblood Trotter)" [https://en.wikipedia.org/wiki/Scandinavian_coldblood_trotter]
-is_a: LBO:0000713 ! horse breed
-created_by: caripark
-creation_date: 2018-11-21T13:23:01Z
-
-[Term]
-id: LBO:0001077
-name: White Composite
-is_a: LBO:0000003 ! pig breed
-created_by: caripark
-creation_date: 2019-01-14T09:12:12Z
-
-[Term]
-id: LBO:0001078
-name: Kazakh Whiteheaded
-def: "Hardy beef breed from Russia and Kazakhstan." [http://en.wikipedia.org/wiki/Kazakh_Whiteheaded]
-is_a: LBO:0000001 ! cattle breed
-created_by: caripark
-creation_date: 2019-04-18T14:17:19Z
-
-[Term]
-id: LBO:0001079
-name: German Black Pied
-def: "Dairy breed that originated in the North Sea coast regions of northern Germany and the Netherlands." [http://en.wikipedia.org/wiki/German_Black_Pied_cattle]
-synonym: "Deutsches Schwarzbuntes Niederungsrind" EXACT []
-is_a: LBO:0000001 ! cattle breed
-created_by: caripark
-creation_date: 2019-04-19T13:16:13Z
-
-[Term]
-id: LBO:0001080
-name: Rendena
-is_a: LBO:0000001 ! cattle breed
-created_by: caripark
-creation_date: 2019-06-18T09:58:06Z
-
-[Term]
-id: LBO:0001081
-name: Sushan
-is_a: LBO:0000003 ! pig breed
-created_by: caripark
-creation_date: 2019-06-18T10:19:21Z
-
-[Term]
-id: LBO:0001082
-name: Sujiang
-is_a: LBO:0000003 ! pig breed
-created_by: caripark
-creation_date: 2019-07-26T13:14:53Z
-
-[Term]
-id: LBO:0001083
-name: Jing Hong
-is_a: LBO:0000002 ! chicken breed
-created_by: caripark
-creation_date: 2019-07-26T13:16:25Z
-
-[Term]
-id: LBO:0001084
-name: Jiangquhai
-is_a: LBO:0000003 ! pig breed
-created_by: caripark
-creation_date: 2019-07-26T13:58:32Z
-
-[Term]
-id: LBO:0001085
-name: Muzaffarnagari
-def: "Largest and heaviest sheep breed in India; well-adapted to heat and humidity." [https://doi.org/10.1017/S1014233900001322]
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2020-01-29T09:34:51Z
-
-[Term]
-id: LBO:0001086
-name: Malpura
-def: "Native Indian breed with good wool and milk production." [https://www.sheepfarm.in/malpura-sheep-breed-profile-information]
-is_a: LBO:0000004 ! sheep breed
-created_by: caripark
-creation_date: 2020-01-29T09:41:07Z
 
