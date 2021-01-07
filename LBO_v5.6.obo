@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 6.1
-date: 06:01:2021 12:55
+data-version: 5.6
+date: 02:12:2020 11:22
 saved-by: caripark
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: default_namespace
@@ -7704,13 +7704,4 @@ name: Kalahari Red
 is_a: LBO:0000954 ! goat breed
 created_by: caripark
 creation_date: 2020-12-02T11:21:40Z
-
-[Term]
-id: LBO:0001093
-name: Australian Red
-def: "Dairy breed combining an extensive infusion of Scandinavian Red genetics with other Australian Red breeds such as Ayrshire, Dairy or Milking Shorthorn, Illawarra, or Red and White Holstein." [https://www.aussiereds.com.au/pages/breed-introduction.php]
-synonym: "Aussie Red" EXACT []
-is_a: LBO:0000001 ! cattle breed
-created_by: caripark
-creation_date: 2021-01-06T12:48:51Z
 
