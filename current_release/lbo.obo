@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 6.5
-date: 20:07:2021 15:28
+data-version: 6.6
+date: 27:08:2021 08:17
 saved-by: caripark
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: default_namespace
@@ -7754,4 +7754,12 @@ def: "Israeli sheep breed that is a product of crossbreeding Awassi and East Fri
 is_a: LBO:0000004 ! sheep breed
 created_by: caripark
 creation_date: 2021-07-20T15:23:40Z
+
+[Term]
+id: LBO:0001099
+name: Vrindavani
+def: "Composite Indian breed with 50-75% Bos taurus ancestry (Holstein-Friesian, Brown Swiss, Jersey) and 25-50% Bos indicus (Hariana)" [http://allpedia.dkart.in/livestock/breeds/cattle-breeds/9695-vrindavani-cattle.html]
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2021-08-25T08:33:40Z
 
