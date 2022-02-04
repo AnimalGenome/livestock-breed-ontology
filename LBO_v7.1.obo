@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 6.6
-date: 27:08:2021 08:17
+data-version: 7.1
+date: 03:02:2022 15:00
 saved-by: caripark
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: default_namespace
@@ -7762,4 +7762,18 @@ def: "Composite Indian breed with 50-75% Bos taurus ancestry (Holstein-Friesian,
 is_a: LBO:0000001 ! cattle breed
 created_by: caripark
 creation_date: 2021-08-25T08:33:40Z
+
+[Term]
+id: LBO:0001100
+name: Luchuan
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2021-11-16T10:14:39Z
+
+[Term]
+id: LBO:0001101
+name: Cashmere
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2022-02-03T14:54:23Z
 
