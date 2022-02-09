@@ -10,7 +10,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
         <oboInOwl:auto-generated-by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03:02:2022 15:00</oboInOwl:date>
+        <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04:02:2022 09:24</oboInOwl:date>
         <oboInOwl:default-namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caripark</oboInOwl:saved-by>
@@ -12623,7 +12623,7 @@
     <!-- http://purl.obolibrary.org/obo/LBO_0000957 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0000957">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000954"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0001101"/>
         <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caripark</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015-12-11T12:44:09Z</oboInOwl:creation_date>
         <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">default_namespace</oboInOwl:hasOBONamespace>
@@ -13040,7 +13040,7 @@
     <!-- http://purl.obolibrary.org/obo/LBO_0000989 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0000989">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000954"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0001101"/>
         <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caripark</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015-12-11T12:54:32Z</oboInOwl:creation_date>
         <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">default_namespace</oboInOwl:hasOBONamespace>
@@ -14626,6 +14626,20 @@
         <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">default_namespace</oboInOwl:hasOBONamespace>
         <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LBO:0001101</oboInOwl:id>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cashmere</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LBO_0001102 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001102">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000713"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caripark</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-02-04T09:21:46Z</oboInOwl:creation_date>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Westfalen</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">default_namespace</oboInOwl:hasOBONamespace>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LBO:0001102</oboInOwl:id>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Westphalian</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
