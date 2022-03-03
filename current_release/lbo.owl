@@ -10,7 +10,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
         <oboInOwl:auto-generated-by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:02:2022 11:23</oboInOwl:date>
+        <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28:02:2022 15:45</oboInOwl:date>
         <oboInOwl:default-namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caripark</oboInOwl:saved-by>
@@ -14675,6 +14675,19 @@
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Holstein x Sahiwal crossbred</owl:annotatedTarget>
         <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://circ.icar.gov.in/division.php?DId=24&amp;RMFlag=1</oboInOwl:hasDbXref>
     </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LBO_0001105 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001105">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000004"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caripark</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-02-28T15:38:51Z</oboInOwl:creation_date>
+        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">default_namespace</oboInOwl:hasOBONamespace>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LBO:0001105</oboInOwl:id>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rahmani</rdfs:label>
+    </owl:Class>
 </rdf:RDF>
 
 
