@@ -10,7 +10,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
         <oboInOwl:auto-generated-by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">08:03:2022 10:31</oboInOwl:date>
+        <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22:03:2022 07:34</oboInOwl:date>
         <oboInOwl:default-namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caripark</oboInOwl:saved-by>
@@ -7193,12 +7193,13 @@
     <!-- http://purl.obolibrary.org/obo/LBO_0000540 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0000540">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000004"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OBSOLETE. Replace with LBO:0000696.</obo:IAO_0000115>
         <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caripark</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011-08-19T10:47:24Z</oboInOwl:creation_date>
         <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">default_namespace</oboInOwl:hasOBONamespace>
         <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LBO:0000540</oboInOwl:id>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leicester Longwool</rdfs:label>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -13640,6 +13641,7 @@
     <!-- http://purl.obolibrary.org/obo/LBO_0001035 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001035">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OBSOLETE. Replace with LBO:0000400.</obo:IAO_0000115>
         <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caripark</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015-12-21T03:18:44Z</oboInOwl:creation_date>
         <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schwäbisch-Hällische Landschwein</oboInOwl:hasExactSynonym>
