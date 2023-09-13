@@ -10,7 +10,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date>11:09:2023 10:18</oboInOwl:date>
+        <oboInOwl:date>12:09:2023 14:01</oboInOwl:date>
         <oboInOwl:default-namespace>default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>caripark</oboInOwl:saved-by>
@@ -15006,6 +15006,26 @@
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget>Iranian dual-purpose native breed, resilient to harsh environments.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>https://www.iga-goatworld.com/blog/the-status-of-adani-goat-rearing-in-bushehr-province</oboInOwl:hasDbXref>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LBO_0001123 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001123">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000954"/>
+        <obo:IAO_0000115>Dual-purpose, medium-sized goat breed from India.</obo:IAO_0000115>
+        <oboInOwl:created_by>caripark</oboInOwl:created_by>
+        <oboInOwl:creation_date>2023-09-12T13:52:34Z</oboInOwl:creation_date>
+        <oboInOwl:hasOBONamespace>default_namespace</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>LBO:0001123</oboInOwl:id>
+        <rdfs:label>Assam Hill</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/LBO_0001123"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <owl:annotatedTarget>Dual-purpose, medium-sized goat breed from India.</owl:annotatedTarget>
+        <oboInOwl:hasDbXref>https://www.tribecreek.com/2023/05/27/assam-hill/</oboInOwl:hasDbXref>
     </owl:Axiom>
 </rdf:RDF>
 
