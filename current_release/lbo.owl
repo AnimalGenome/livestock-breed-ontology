@@ -10,7 +10,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date>26:10:2023 13:03</oboInOwl:date>
+        <oboInOwl:date>20:11:2023 15:41</oboInOwl:date>
         <oboInOwl:default-namespace>default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>caripark</oboInOwl:saved-by>
@@ -15047,6 +15047,21 @@
         <owl:annotatedTarget>Czech breed originated from a native breed improved by crossing with German Brown bucks.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>https://breeds.okstate.edu/goats/brown-shorthair-goats.html</oboInOwl:hasDbXref>
     </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LBO_0001125 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001125">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000954"/>
+        <oboInOwl:created_by>caripark</oboInOwl:created_by>
+        <oboInOwl:creation_date>2023-11-20T15:33:50Z</oboInOwl:creation_date>
+        <oboInOwl:hasExactSynonym>Jamunapari</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>Jumnapari</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasOBONamespace>default_namespace</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>LBO:0001125</oboInOwl:id>
+        <rdfs:label>Jamnapari</rdfs:label>
+    </owl:Class>
 </rdf:RDF>
 
 
