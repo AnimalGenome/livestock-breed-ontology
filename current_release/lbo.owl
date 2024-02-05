@@ -10,7 +10,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date>20:11:2023 15:41</oboInOwl:date>
+        <oboInOwl:date>05:02:2024 09:17</oboInOwl:date>
         <oboInOwl:default-namespace>default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>caripark</oboInOwl:saved-by>
@@ -15062,6 +15062,26 @@
         <oboInOwl:id>LBO:0001125</oboInOwl:id>
         <rdfs:label>Jamnapari</rdfs:label>
     </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LBO_0001126 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001126">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000001"/>
+        <obo:IAO_0000115>The F1 HoJo is defined as a Jersey x Holstein cross or a Holstein x Jersey cross.</obo:IAO_0000115>
+        <oboInOwl:created_by>caripark</oboInOwl:created_by>
+        <oboInOwl:creation_date>2024-02-05T09:14:21Z</oboInOwl:creation_date>
+        <oboInOwl:hasOBONamespace>default_namespace</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>LBO:0001126</oboInOwl:id>
+        <rdfs:label>HoJo</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/LBO_0001126"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <owl:annotatedTarget>The F1 HoJo is defined as a Jersey x Holstein cross or a Holstein x Jersey cross.</owl:annotatedTarget>
+        <oboInOwl:hasDbXref>https://www.dairychallenge.org/pdfs/Mixed_Breed_Sires_GENEX.pdf</oboInOwl:hasDbXref>
+    </owl:Axiom>
 </rdf:RDF>
 
 
