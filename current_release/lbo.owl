@@ -10,7 +10,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date>13:02:2024 14:50</oboInOwl:date>
+        <oboInOwl:date>07:03:2024 15:26</oboInOwl:date>
         <oboInOwl:default-namespace>default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>caripark</oboInOwl:saved-by>
@@ -15101,6 +15101,26 @@
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget>Indigenous breed of domestic goat from the Mediterranean island of Sardinia.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>https://en.wikipedia.org/wiki/Sarda_goat</oboInOwl:hasDbXref>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LBO_0001128 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001128">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000004"/>
+        <obo:IAO_0000115>Greek native sheep breed derived from crossing of local sheep with Friesian rams in the 1960s.</obo:IAO_0000115>
+        <oboInOwl:created_by>caripark</oboInOwl:created_by>
+        <oboInOwl:creation_date>2024-03-07T15:11:50Z</oboInOwl:creation_date>
+        <oboInOwl:hasOBONamespace>default_namespace</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>LBO:0001128</oboInOwl:id>
+        <rdfs:label>Frizarta</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/LBO_0001128"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <owl:annotatedTarget>Greek native sheep breed derived from crossing of local sheep with Friesian rams in the 1960s.</owl:annotatedTarget>
+        <oboInOwl:hasDbXref>https://heritagesheep.net/frizarta.htm</oboInOwl:hasDbXref>
     </owl:Axiom>
 </rdf:RDF>
 
