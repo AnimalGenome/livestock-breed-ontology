@@ -10,7 +10,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date>07:03:2024 15:26</oboInOwl:date>
+        <oboInOwl:date>22:04:2024 08:12</oboInOwl:date>
         <oboInOwl:default-namespace>default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>caripark</oboInOwl:saved-by>
@@ -5115,6 +5115,8 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000003"/>
         <oboInOwl:created_by>caripark</oboInOwl:created_by>
         <oboInOwl:creation_date>2011-08-19T10:01:45Z</oboInOwl:creation_date>
+        <oboInOwl:hasExactSynonym>Mangalica</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>Mangalitza</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>default_namespace</oboInOwl:hasOBONamespace>
         <oboInOwl:id>LBO:0000380</oboInOwl:id>
         <rdfs:label>Mangalitsa</rdfs:label>
@@ -5229,12 +5231,13 @@
     <!-- http://purl.obolibrary.org/obo/LBO_0000389 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0000389">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000003"/>
+        <obo:IAO_0000115>OBSOLETE</obo:IAO_0000115>
         <oboInOwl:created_by>caripark</oboInOwl:created_by>
         <oboInOwl:creation_date>2011-08-19T10:01:45Z</oboInOwl:creation_date>
         <oboInOwl:hasOBONamespace>default_namespace</oboInOwl:hasOBONamespace>
         <oboInOwl:id>LBO:0000389</oboInOwl:id>
         <rdfs:label>Meijiang</rdfs:label>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
