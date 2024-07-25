@@ -10,7 +10,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date>22:04:2024 08:12</oboInOwl:date>
+        <oboInOwl:date>22:07:2024 13:09</oboInOwl:date>
         <oboInOwl:default-namespace>default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>caripark</oboInOwl:saved-by>
@@ -15124,6 +15124,26 @@
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget>Greek native sheep breed derived from crossing of local sheep with Friesian rams in the 1960s.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>https://heritagesheep.net/frizarta.htm</oboInOwl:hasDbXref>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LBO_0001129 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001129">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000004"/>
+        <obo:IAO_0000115>Breed of meat sheep produced using South African White-Headed Dorper sheep as the sire and Chinese Hu sheep as the dam.</obo:IAO_0000115>
+        <oboInOwl:created_by>caripark</oboInOwl:created_by>
+        <oboInOwl:creation_date>2024-07-22T13:00:17Z</oboInOwl:creation_date>
+        <oboInOwl:hasOBONamespace>default_namespace</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>LBO:0001129</oboInOwl:id>
+        <rdfs:label>Luzhong Mutton</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/LBO_0001129"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <owl:annotatedTarget>Breed of meat sheep produced using South African White-Headed Dorper sheep as the sire and Chinese Hu sheep as the dam.</owl:annotatedTarget>
+        <oboInOwl:hasDbXref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11200940/</oboInOwl:hasDbXref>
     </owl:Axiom>
 </rdf:RDF>
 
