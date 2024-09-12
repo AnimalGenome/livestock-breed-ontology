@@ -1,16 +1,18 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/TEMP#"
-     xml:base="http://purl.obolibrary.org/obo/TEMP"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/lbo.owl#"
+     xml:base="http://purl.obolibrary.org/obo/lbo.owl"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:terma="http://purl.org/dc/terma/"
+     xmlns:eterms="http://purl.org/dc/eterms/"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/TEMP">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/lbo.owl">
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date>22:07:2024 13:09</oboInOwl:date>
+        <oboInOwl:date>12:09:2024 13:27</oboInOwl:date>
         <oboInOwl:default-namespace>default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>caripark</oboInOwl:saved-by>
@@ -34,6 +36,18 @@
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
         <rdfs:label>definition</rdfs:label>
     </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.org/dc/eterms/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/eterms/date"/>
+    
+
+
+    <!-- http://purl.org/dc/terma/contributor -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terma/contributor"/>
     
 
 
@@ -15144,6 +15158,26 @@
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget>Breed of meat sheep produced using South African White-Headed Dorper sheep as the sire and Chinese Hu sheep as the dam.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11200940/</oboInOwl:hasDbXref>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LBO_0001130 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001130">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000954"/>
+        <obo:IAO_0000115>Native Spanish breed primarily used for milk/cheese production.</obo:IAO_0000115>
+        <eterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-12T18:17:59Z</eterms:date>
+        <terma:contributor rdf:resource="http://orcid.org/0000-0002-2346-5201"/>
+        <oboInOwl:hasOBONamespace>default_namespace</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>LBO:0001130</oboInOwl:id>
+        <rdfs:label>Payoya</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/LBO_0001130"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <owl:annotatedTarget>Native Spanish breed primarily used for milk/cheese production.</owl:annotatedTarget>
+        <oboInOwl:hasDbXref>https://goatjournal.iamcountryside.com/goat-breeds/payoya-goat-breed-profile/</oboInOwl:hasDbXref>
     </owl:Axiom>
 </rdf:RDF>
 
