@@ -12,7 +12,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/lbo.owl">
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date>12:09:2024 13:27</oboInOwl:date>
+        <oboInOwl:date>02:10:2024 14:08</oboInOwl:date>
         <oboInOwl:default-namespace>default_namespace</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>caripark</oboInOwl:saved-by>
@@ -15178,6 +15178,26 @@
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget>Native Spanish breed primarily used for milk/cheese production.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>https://goatjournal.iamcountryside.com/goat-breeds/payoya-goat-breed-profile/</oboInOwl:hasDbXref>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LBO_0001131 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LBO_0001131">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LBO_0000004"/>
+        <obo:IAO_0000115>Small-sized, prolific meat sheep breed from West Bengal region of India.</obo:IAO_0000115>
+        <eterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-02T19:05:17Z</eterms:date>
+        <terma:contributor rdf:resource="http://orcid.org/0000-0002-2346-5201"/>
+        <oboInOwl:hasOBONamespace>default_namespace</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>LBO:0001131</oboInOwl:id>
+        <rdfs:label>Garole</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/LBO_0001131"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+        <owl:annotatedTarget>Garole</owl:annotatedTarget>
+        <oboInOwl:hasDbXref>https://nbagr.icar.gov.in/wp-content/uploads/2020/02/Garole-sheep.pdf</oboInOwl:hasDbXref>
     </owl:Axiom>
 </rdf:RDF>
 
