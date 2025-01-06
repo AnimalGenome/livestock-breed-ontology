@@ -1,5 +1,5 @@
 format-version: 1.2
-data-version: releases/2024-11-25
+data-version: releases/2025-01-06
 saved-by: caripark
 default-namespace: LBreed.ontology
 ontology: lbo
@@ -7,7 +7,7 @@ property_value: http://purl.org/dc/elements/1.1/description "The Livestock Breed
 property_value: http://purl.org/dc/elements/1.1/language "English" xsd:string
 property_value: http://purl.org/dc/elements/1.1/title "The Livestock Breed Ontology" xsd:string
 property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/by/4.0/
-property_value: owl:versionInfo "2024-11-25" xsd:string
+property_value: owl:versionInfo "2025-01-06" xsd:string
 
 [Term]
 id: LBO:0000000
@@ -8016,14 +8016,22 @@ id: LBO:0001130
 name: Payoya
 def: "Native Spanish breed primarily used for milk/cheese production." [https://goatjournal.iamcountryside.com/goat-breeds/payoya-goat-breed-profile/]
 is_a: LBO:0000954 ! goat breed
-property_value: http://purl.org/dc/terms/date 2024-09-12T18:17:59Z xsd:dateTime
 property_value: http://purl.org/dc/terms/contributor http://orcid.org/0000-0002-2346-5201
+property_value: http://purl.org/dc/terms/date 2024-09-12T18:17:59Z xsd:dateTime
 
 [Term]
 id: LBO:0001131
 name: Garole
 def: "Small-sized, prolific meat sheep breed from West Bengal region of India." [https://nbagr.icar.gov.in/wp-content/uploads/2020/02/Garole-sheep.pdf]
 is_a: LBO:0000004 ! sheep breed
-property_value: http://purl.org/dc/terms/date 2024-10-02T19:05:17Z xsd:dateTime
 property_value: http://purl.org/dc/terms/contributor http://orcid.org/0000-0002-2346-5201
+property_value: http://purl.org/dc/terms/date 2024-10-02T19:05:17Z xsd:dateTime
+
+[Term]
+id: LBO:0001132
+name: Fogera
+def: "Bos indicus breed native to Ethiopia, distributed in the Fogera plains around Lake Tana, Southern Gonder and adjoining areas of Gojam." [https://www.fao.org/dad-is]
+is_a: LBO:0000001 ! cattle breed
+property_value: http://purl.org/dc/terms/contributor http://orcid.org/0000-0002-2346-5201
+property_value: http://purl.org/dc/terms/date 2025-01-06T14:58:33Z xsd:dateTime
 

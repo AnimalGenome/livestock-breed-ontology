@@ -1,9 +1,13 @@
 format-version: 1.2
-data-version: 8.9
-date: 26:10:2023 13:03
+data-version: releases/2025-01-06
 saved-by: caripark
-auto-generated-by: OBO-Edit 2.3.1
-default-namespace: default_namespace
+default-namespace: LBreed.ontology
+ontology: lbo
+property_value: http://purl.org/dc/elements/1.1/description "The Livestock Breed Ontology is a controlled vocabulary for buffalo, cattle, chicken, goat, horse, pig, and sheep breeds." xsd:string
+property_value: http://purl.org/dc/elements/1.1/language "English" xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "The Livestock Breed Ontology" xsd:string
+property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/by/4.0/
+property_value: owl:versionInfo "2025-01-06" xsd:string
 
 [Term]
 id: LBO:0000000
@@ -2687,6 +2691,8 @@ creation_date: 2011-08-19T10:01:45Z
 [Term]
 id: LBO:0000380
 name: Mangalitsa
+synonym: "Mangalica" EXACT []
+synonym: "Mangalitza" EXACT []
 is_a: LBO:0000003 ! pig breed
 created_by: caripark
 creation_date: 2011-08-19T10:01:45Z
@@ -2750,7 +2756,8 @@ creation_date: 2011-08-19T10:01:45Z
 [Term]
 id: LBO:0000389
 name: Meijiang
-is_a: LBO:0000003 ! pig breed
+def: "OBSOLETE" []
+is_obsolete: true
 created_by: caripark
 creation_date: 2011-08-19T10:01:45Z
 
@@ -7962,4 +7969,69 @@ def: "Czech breed originated from a native breed improved by crossing with Germa
 is_a: LBO:0000954 ! goat breed
 created_by: caripark
 creation_date: 2023-10-26T12:54:00Z
+
+[Term]
+id: LBO:0001125
+name: Jamnapari
+synonym: "Jamunapari" EXACT []
+synonym: "Jumnapari" EXACT []
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2023-11-20T15:33:50Z
+
+[Term]
+id: LBO:0001126
+name: HoJo
+def: "The F1 HoJo is defined as a Jersey x Holstein cross or a Holstein x Jersey cross." [https://www.dairychallenge.org/pdfs/Mixed_Breed_Sires_GENEX.pdf]
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2024-02-05T09:14:21Z
+
+[Term]
+id: LBO:0001127
+name: Sarda
+def: "Indigenous breed of domestic goat from the Mediterranean island of Sardinia." [https://en.wikipedia.org/wiki/Sarda_goat]
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2024-02-13T14:48:25Z
+
+[Term]
+id: LBO:0001128
+name: Frizarta
+def: "Greek native sheep breed derived from crossing of local sheep with Friesian rams in the 1960s." [https://heritagesheep.net/frizarta.htm]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2024-03-07T15:11:50Z
+
+[Term]
+id: LBO:0001129
+name: Luzhong Mutton
+def: "Breed of meat sheep produced using South African White-Headed Dorper sheep as the sire and Chinese Hu sheep as the dam." [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11200940/]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2024-07-22T13:00:17Z
+
+[Term]
+id: LBO:0001130
+name: Payoya
+def: "Native Spanish breed primarily used for milk/cheese production." [https://goatjournal.iamcountryside.com/goat-breeds/payoya-goat-breed-profile/]
+is_a: LBO:0000954 ! goat breed
+property_value: http://purl.org/dc/terms/contributor http://orcid.org/0000-0002-2346-5201
+property_value: http://purl.org/dc/terms/date 2024-09-12T18:17:59Z xsd:dateTime
+
+[Term]
+id: LBO:0001131
+name: Garole
+def: "Small-sized, prolific meat sheep breed from West Bengal region of India." [https://nbagr.icar.gov.in/wp-content/uploads/2020/02/Garole-sheep.pdf]
+is_a: LBO:0000004 ! sheep breed
+property_value: http://purl.org/dc/terms/contributor http://orcid.org/0000-0002-2346-5201
+property_value: http://purl.org/dc/terms/date 2024-10-02T19:05:17Z xsd:dateTime
+
+[Term]
+id: LBO:0001132
+name: Fogera
+def: "Bos indicus breed native to Ethiopia, distributed in the Fogera plains around Lake Tana, Southern Gonder and adjoining areas of Gojam." [https://www.fao.org/dad-is]
+is_a: LBO:0000001 ! cattle breed
+property_value: http://purl.org/dc/terms/contributor http://orcid.org/0000-0002-2346-5201
+property_value: http://purl.org/dc/terms/date 2025-01-06T14:58:33Z xsd:dateTime
 
