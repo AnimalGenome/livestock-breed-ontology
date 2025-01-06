@@ -1,0 +1,7965 @@
+format-version: 1.2
+data-version: 8.9
+date: 26:10:2023 13:03
+saved-by: caripark
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: default_namespace
+
+[Term]
+id: LBO:0000000
+name: Breed
+created_by: caripark
+creation_date: 2011-08-19T07:59:35Z
+
+[Term]
+id: LBO:0000001
+name: cattle breed
+is_a: LBO:0000000 ! Breed
+created_by: caripark
+creation_date: 2011-08-19T08:18:15Z
+
+[Term]
+id: LBO:0000002
+name: chicken breed
+is_a: LBO:0000000 ! Breed
+created_by: caripark
+creation_date: 2011-08-19T08:39:29Z
+
+[Term]
+id: LBO:0000003
+name: pig breed
+is_a: LBO:0000000 ! Breed
+created_by: caripark
+creation_date: 2011-08-19T08:39:29Z
+
+[Term]
+id: LBO:0000004
+name: sheep breed
+is_a: LBO:0000000 ! Breed
+created_by: caripark
+creation_date: 2011-08-19T08:39:29Z
+
+[Term]
+id: LBO:0000005
+name: Africander cattle
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000006
+name: Alberes cattle
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000007
+name: Alentejana cattle
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000008
+name: Allmogekor
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000009
+name: American
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000010
+name: American White Park
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000011
+name: Amerifax
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000012
+name: Amrit Mahal
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000013
+name: Anatolian Black
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000014
+name: Andalusian Black
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000015
+name: Andalusian Grey
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000016
+name: Angeln
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000017
+name: Angus
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000018
+name: Ankole
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000019
+name: Ankole-Watusi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000020
+name: Argentine Criollo
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000021
+name: Asturian Mountain
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000022
+name: Asturian Valley
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000023
+name: Aubrac
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000024
+name: Aulie-Ata
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000025
+name: Australian Braford
+is_a: LBO:0000057 ! Braford
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000026
+name: Australian Friesian Sahiwal
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000027
+name: Australian Lowline
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000028
+name: Australian Milking Zebu
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000029
+name: Ayrshire
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000030
+name: Azaouak
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000031
+name: Bachaur
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000032
+name: Baladi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000033
+name: Baltana Romaneasca
+synonym: "Baltata Romaneasca" EXACT []
+synonym: "Romanian Spotted" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000034
+name: Barka
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000035
+name: Barzona
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000036
+name: Bazadais
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000037
+name: Bearnais
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000038
+name: Beefalo
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000039
+name: Beefmaker
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000040
+name: Beefmaster
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000041
+name: Belarus Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000042
+name: Belgian Blue
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000043
+name: Belgian Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000044
+name: Belmont Adaptaur
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000045
+name: Belmont Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000046
+name: Belted Galloway
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000047
+name: Bengali
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000048
+name: Berrendas
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000049
+name: Bhagnari
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000050
+name: Blacksided Trondheim and Norland
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000051
+name: White Caceres
+synonym: "Blanca Cacerena" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000052
+name: Blanco Orejinegro
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000053
+name: Blonde d'Aquitaine
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000054
+name: Bonsmara
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000055
+name: Boran
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000056
+name: Bordelais
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000057
+name: Braford
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000058
+name: Brahman
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000059
+name: Brahmousin
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000060
+name: Brangus
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000061
+name: Braunvieh
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000062
+name: British White
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000063
+name: Brown Swiss
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000064
+name: Busa
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000065
+name: Cachena
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000066
+name: Canadienne
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000067
+name: Canary Island
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000068
+name: Canchim
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000069
+name: Carinthian Blond
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000070
+name: Caucasian
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000071
+name: Channi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000072
+name: Charbray
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000073
+name: Charolais
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000074
+name: Chianina
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000075
+name: Chinampo
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000076
+name: Chinese Black-and-White
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000077
+name: Cholistani
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000078
+name: Corriente
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000079
+name: Costeno con Cuernos
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000080
+name: Dajal
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000081
+name: Damascus
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000082
+name: Damietta
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000083
+name: Dangi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000084
+name: Danish Jersey
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000085
+name: Danish Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000086
+name: Deoni
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000087
+name: Devon
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000088
+name: Dexter
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000089
+name: Dhanni
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000090
+name: Dølafe
+synonym: "Dolafe" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000091
+name: Droughtmaster
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000092
+name: Dulong
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000093
+name: Dutch Belted
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000094
+name: Dutch Friesian
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000095
+name: East Anatolian Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000096
+name: Enderby Island
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000097
+name: English Longhorn
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000098
+name: Estonian Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000099
+name: Evolène
+synonym: "Evolene" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000100
+name: Fighting Bull
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000101
+name: Fjall
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000102
+name: Finnish
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000103
+name: Florida Cracker/Pineywoods
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000104
+name: Fulani Sudanese
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000105
+name: Galician Blond
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000106
+name: Galloway
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000107
+name: Gaolao
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000108
+name: Gascon
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000109
+name: Gelbray
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000110
+name: Gelbvieh
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000111
+name: German Angus
+synonym: "German Angus Moiled" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000112
+name: German Red Pied
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000113
+name: Gir
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000114
+name: Glan
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000115
+name: Gloucester
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000116
+name: Gobra
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000117
+name: Greek Shorthorn
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000118
+name: Greek Steppe
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000119
+name: Groningen Whiteheaded
+synonym: "Groningen" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000120
+name: Gudali
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000121
+name: Guernsey
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000122
+name: Guzerat
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000123
+name: Hallikar
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000124
+name: Hariana
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000125
+name: Harton
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000126
+name: Hays Converter
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000127
+name: Hereford
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000128
+name: Herens
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000129
+name: Highland
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000130
+name: Hinterwald
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000131
+name: Holando-Argentino
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000132
+name: Holstein
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000133
+name: Horro
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000134
+name: Hungarian Grey
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000135
+name: Icelandic
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000136
+name: Illawarra
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000137
+name: Indo-Brazilian
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000138
+name: Irish Moiled
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000139
+name: Israeli Holstein
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000140
+name: Israeli Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000141
+name: Istoben
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000142
+name: Jamaica Black
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000143
+name: Jamaica Hope
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000144
+name: Jamaica Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000145
+name: Jaulan
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000146
+name: Jersey
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000147
+name: Kangayam
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000148
+name: Kankrej
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000149
+name: Karan Fries
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000150
+name: Karan Swiss
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000151
+name: Kazakh
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000152
+name: Kenwariya
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000153
+name: Kerry
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000154
+name: Kherigarh
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000155
+name: Khillari
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000156
+name: Kholmogory
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000157
+name: Kilis
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000158
+name: Krishna Valley
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000159
+name: Kurdi
+synonym: "Kurdi Black" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000160
+name: Kuri
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000161
+name: Latvian Brown
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000162
+name: Limousin
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000163
+name: Limpurger
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000164
+name: Lincoln Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000165
+name: Lithuanian Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000166
+name: Lohani
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000167
+name: Lourdais
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000168
+name: Luing
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000169
+name: Madagascar Zebu
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000170
+name: Maine Anjou
+synonym: "Maine-Anjou" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000171
+name: Malvi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000172
+name: Mandalong
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000173
+name: Marchigiana
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000174
+name: Maremmana
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000175
+name: Masai
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000176
+name: Mashona
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000177
+name: Maure
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000178
+name: Mazandarani
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000179
+name: Meuse-Rhine-Yssel
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000180
+name: Mewati
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000181
+name: Milking Devon
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000182
+name: Milking Shorthorn
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000183
+name: Mirandesa
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000184
+name: Modicana
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000185
+name: Mongolian
+synonym: "Chinese Mongolian" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000186
+name: Montbeliarde
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000187
+name: Morucha
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000188
+name: Murboden
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000189
+name: Murray Grey
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000190
+name: Muturu
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000191
+name: Nagori
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000192
+name: Nanyang
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000193
+name: N'dama
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000194
+name: Nelore
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000195
+name: Nguni
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000196
+name: Nimari
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000197
+name: Normande
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000198
+name: Norwegian Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000199
+name: Ongole
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000200
+name: Orma Boran
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000201
+name: Oropa
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000202
+name: Ovambo
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000203
+name: Parthenais
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000204
+name: Philippine Native
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000205
+name: Polish Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000206
+name: Polled Hereford
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000207
+name: Ponwar
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000208
+name: Piedmontese
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000209
+name: Pinzgauer
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000210
+name: Qinchuan
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000211
+name: Rätien Gray
+synonym: "Ratien Gray" EXACT []
+synonym: "Ratische Grauvieh" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:27:50Z
+
+[Term]
+id: LBO:0000212
+name: Rath
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000213
+name: Rathi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000214
+name: Red Angus
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000215
+name: Red Brangus
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000216
+name: Red Fulani
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000217
+name: Red Pied Friesian
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000218
+name: Red Poll
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000219
+name: Red Polled Ostland
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000220
+name: Red Sindhi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000221
+name: Red Steppe
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000222
+name: Reggiana
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000223
+name: Retinta
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000224
+name: Rojhan
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000225
+name: Romagnola
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000226
+name: Romosinuano
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000227
+name: Russian Black Pied
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000228
+name: RX3
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000229
+name: Sahiwal
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000230
+name: Salers
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000231
+name: Salorn
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000232
+name: Sanhe
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000233
+name: Santa Cruz
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000234
+name: Santa Gertrudis
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000235
+name: San Martinero
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000236
+name: Sarabi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000237
+name: Senepol
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000238
+name: Sharabi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000239
+name: Shetland
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000240
+name: Shorthorn
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000241
+name: Siboney
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000242
+name: Simbrah
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000243
+name: Simmental
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000244
+name: Siri
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000245
+name: Slovenian Cika
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000246
+name: South Devon
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000247
+name: Sussex
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000248
+name: Swedish Friesian
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000249
+name: Swedish Red-and-White
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000250
+name: Swedish Red Polled
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000251
+name: Tarentaise
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000252
+name: Telemark
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000253
+name: Texas Longhorn
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000254
+name: Texon
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000255
+name: Tharparker
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000256
+name: Tswana
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000257
+name: Tuli
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000258
+name: Turkish Grey Steppe
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000259
+name: Ukrainian Beef
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000260
+name: Ukrainian Grey
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000261
+name: Ukrainian Whitehead
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000262
+name: Umblachery
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000263
+name: Ural Black Pied
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000264
+name: Vestland Fjord
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000265
+name: Vestland Red Polled
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000266
+name: Vosges
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000267
+name: Wagyu
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000268
+name: Welsh Black
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000269
+name: White Park
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000270
+name: Xinjiang Brown
+synonym: "Chinese Xinjiang Brown" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000271
+name: Yanbian
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2011-08-19T09:35:34Z
+
+[Term]
+id: LBO:0000272
+name: Ac
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000273
+name: Ancona
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000274
+name: Andalusian
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000275
+name: Appenzell Bearded Hen
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000276
+name: Appenzell Pointed Hood Hen
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000277
+name: Araucana
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000278
+name: Aseel
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000279
+name: Australorp
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000280
+name: Bandara
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000281
+name: Baheij
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000282
+name: Brahmas
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000283
+name: Barnevelders
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000284
+name: Buckeye
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000285
+name: Buttercup
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000286
+name: Campine
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000287
+name: Catalana
+synonym: "Catalana del Prat Lleonada" EXACT []
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000288
+name: Chantecler
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000289
+name: Cochin
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000290
+name: Cornish
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000291
+name: Crevecoeur
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000292
+name: Cubalaya
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000293
+name: Delaware
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000294
+name: Dominiques
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000295
+name: Dorking
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000296
+name: Dutch Bantam
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000297
+name: Faverolles
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000298
+name: Frieslands
+synonym: "Friesland" EXACT []
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000299
+name: Frizzle
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000300
+name: Gallus Inauris
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000301
+name: Gimmizah
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000302
+name: Golden Montazah
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000303
+name: Hamburgs
+synonym: "Hamburg" EXACT []
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000304
+name: Holland
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000305
+name: Houdan
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000306
+name: Java
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000307
+name: Jersey Giant
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000308
+name: Jungle Fowl
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:49:27Z
+
+[Term]
+id: LBO:0000309
+name: Green Jungle Fowl
+synonym: "Forked-Tail Jungle Fowl" EXACT []
+is_a: LBO:0000308 ! Jungle Fowl
+created_by: caripark
+creation_date: 2011-08-19T09:49:55Z
+
+[Term]
+id: LBO:0000310
+name: Gray Jungle Fowl
+is_a: LBO:0000308 ! Jungle Fowl
+created_by: caripark
+creation_date: 2011-08-19T09:49:55Z
+
+[Term]
+id: LBO:0000311
+name: La Fleche
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000312
+name: Lakenvelder
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000313
+name: Lamona
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000314
+name: Langshan
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000315
+name: Leghorn
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000316
+name: Malay
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000317
+name: Matrouh
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000318
+name: Minorca
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000319
+name: Modern Game
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000320
+name: Turken
+synonym: "Naked Neck" EXACT []
+synonym: "Transylvanian Naked Neck" EXACT []
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000321
+name: New Hampshire Red
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000322
+name: Old English Game
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000323
+name: Orpington
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000324
+name: Plymouth Rock
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000325
+name: Polish
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000326
+name: Red Cap
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000327
+name: Rhode Island Red
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000328
+name: Silkie Bantam
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000329
+name: Silver Montazah
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000330
+name: Styrian
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000331
+name: Sultan
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000332
+name: Sumatra
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000333
+name: Sussex
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000334
+name: Swiss Hen
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000335
+name: White-Faced Black Spanish
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000336
+name: Wyandottes
+synonym: "Wyandotte" EXACT []
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T09:53:06Z
+
+[Term]
+id: LBO:0000337
+name: American Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000338
+name: Yorkshire
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000339
+name: Angeln Saddleback
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000340
+name: Arapawa Island
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000341
+name: Ba Xuyen
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000342
+name: Bantu
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000343
+name: Bazna
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000344
+name: Beijing Black
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000345
+name: Belarus Black Pied
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000346
+name: Belgian Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000347
+name: Bentheim Black Pied
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000348
+name: Berkshire
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000349
+name: Black Slavonian
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000350
+name: British Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000351
+name: Brithish Lop
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000352
+name: Bulgarian White
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000353
+name: Cantonese
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000354
+name: Chester White
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000355
+name: Czech Improved White
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000356
+name: Danish Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000357
+name: Dermantsi Pied
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000358
+name: Duroc
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000359
+name: Dutch Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000360
+name: Fengjing
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000361
+name: Finnish Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000362
+name: French Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000363
+name: German Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000364
+name: Gloucestershire Old Spots
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000365
+name: Guinea Hog
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000366
+name: Hampshire
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000367
+name: Hereford
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000368
+name: Hezuo
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000369
+name: Iberian
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000370
+name: Italian Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000371
+name: Jinhua
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000372
+name: Kele
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000373
+name: Krskopolje
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000374
+name: Kunekune
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000375
+name: Lacombe
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000376
+name: Large Black
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000377
+name: Large Black-White
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000378
+name: Large White
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000379
+name: Lithuanian Native
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000380
+name: Mangalitsa
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000381
+name: Meishan
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000382
+name: Middle White
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000383
+name: Minzhu
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000384
+name: Mong Cai
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000385
+name: Mukota
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000386
+name: Mora Romagnola
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000387
+name: Moura
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000388
+name: Mulefoot
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000389
+name: Meijiang
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000390
+name: Ningxiang
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000391
+name: Norwegian Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000392
+name: Ossabaw Island
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000393
+name: Oxford Sandy and Black
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000394
+name: Philippine Native
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000395
+name: Pietrain
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000396
+name: Poland China
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000397
+name: Red Wattle
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000398
+name: Saddleback
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000399
+name: Spots
+synonym: "Spotted" EXACT []
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000400
+name: Swabian-Hall
+synonym: "Schwäbisch-Hällisches Schwein" EXACT []
+synonym: "Swabian Hall Swine" EXACT []
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000401
+name: Swedish Landrace
+is_a: LBO:0000692 ! Landrace
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000402
+name: Tamworth
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000403
+name: Thuoc Nhieu
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000404
+name: Tibetan
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000405
+name: Turopolje
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000406
+name: Vietnamese Potbelly
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000407
+name: Welsh
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000408
+name: Wuzhishan
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:01:45Z
+
+[Term]
+id: LBO:0000409
+name: Acipayam
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000410
+name: Adal
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000411
+name: Afghan Arabi
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000412
+name: Africana
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000413
+name: African Blackhead
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000414
+name: Alai
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000415
+name: Alcarrena
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000416
+name: Algarve Churro
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000417
+name: Algerian Arab
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000418
+name: Altai
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000419
+name: Altay
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000420
+name: American Blackbelly
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000421
+name: Apennine
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000422
+name: Arabi
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000423
+name: Arapawa Island
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000424
+name: Argentine Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000425
+name: Arles Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000426
+name: Armenian Semicoarsewool
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000427
+name: Askanian
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000428
+name: Awassi
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000429
+name: Balkhi
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000430
+name: Baluchi
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000431
+name: Balwen Welsh Mountain
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000432
+name: Barbado
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000433
+name: Barbados Blackbelly
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000434
+name: Basco-Bearnais
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000435
+name: Bavarian Forest
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000436
+name: Bentheimer Landschaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000437
+name: Bergamasca
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000438
+name: Beulah Speckled-Face
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000439
+name: Bibrik
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000440
+name: Biellese
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000441
+name: Black Welsh Mountain Sheep
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000442
+name: Bleu du Maine
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000443
+name: Bluefaced Leicester
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000444
+name: Bond
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000445
+name: Booroola Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000446
+name: Border Leicester
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000447
+name: Boreray
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000448
+name: Bovska
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000449
+name: Braunes Bergschaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000450
+name: Brazilian Somali
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000451
+name: Brecknock Hill Cheviot
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000452
+name: Brillenschaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000453
+name: British Milk Sheep
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000454
+name: Bundner Oberland
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000455
+name: California Red
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000456
+name: California Variegated Mutant
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000457
+name: Campanian Barbary
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000458
+name: Castlemilk Moorit
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000459
+name: Cine Capari
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000460
+name: Charollais
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000461
+name: Cheviot
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000462
+name: Chios
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000463
+name: Cholistani
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000464
+name: Clun Forest
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000465
+name: Coburger Fuchsschaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000466
+name: Columbia
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000467
+name: Comeback
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000468
+name: Comisana
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000469
+name: Coopworth
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000470
+name: Cormo
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000471
+name: Corriedale
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000472
+name: Cotswold
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000473
+name: Criollo
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000474
+name: Dala
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000475
+name: Dalesbred
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000476
+name: Daglic
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000477
+name: Damani
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000478
+name: Damara
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000479
+name: Danish Landrace
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000480
+name: Dartmoor
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000481
+name: Debouillet
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000482
+name: Delaine Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000483
+name: Deutsches Blaukoepfiges Fleischschaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000484
+name: Dorper
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000485
+name: Derbyshire Gritstone
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000486
+name: Devon Closewool
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000487
+name: Devon Longwoolled
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000488
+name: Dorset
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000489
+name: Dorset Down
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000490
+name: Drysdale
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000491
+name: Elliottdale
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000492
+name: Exmoor Horn
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000493
+name: Fabrianese
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000494
+name: Faeroes
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000495
+name: Finnsheep
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000496
+name: Fonthill Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000497
+name: Friesian Milk Sheep
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000498
+name: Galway
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000499
+name: Gansu Alpine Fine-Wool
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000500
+name: Gentile di Puglia
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000501
+name: German Blackheaded Mutton
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000502
+name: German Mountain
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000503
+name: German Mutton Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000504
+name: German Whiteheaded Mutton
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000505
+name: Ghezel
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000506
+name: Gokceada
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000507
+name: Gotland
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000508
+name: Graue Gehoernte Heidschnucke
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000509
+name: Gromark
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000510
+name: Gulf Coast
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000511
+name: Gute
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000512
+name: Hampshire
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000513
+name: Han
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000514
+name: Harnai
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000515
+name: Hasht Nagri
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000516
+name: Hazaragie
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000517
+name: Hebridean
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000518
+name: Herdwick
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000519
+name: Herik
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000520
+name: Hill Radnor
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000521
+name: Hog Island Sheep
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000522
+name: Hu
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000523
+name: Icelandic
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000524
+name: Ile-de-France
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000525
+name: Istrian Milk
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000526
+name: Jacob
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000527
+name: Jezerskosolcavska
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000528
+name: Kachhi
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000529
+name: Kajli
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000530
+name: Karacabey Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000531
+name: Karakul
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000532
+name: Karayaka
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000533
+name: Katahdin
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000534
+name: Kerry Hill
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000535
+name: Kivircik
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000536
+name: Kooka
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000537
+name: Landais
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000538
+name: Langhe
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000539
+name: Lati
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000540
+name: Leicester Longwool
+def: "OBSOLETE. Replace with LBO:0000696." []
+is_obsolete: true
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000541
+name: Leineschaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000542
+name: Lincoln
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000543
+name: Llanwenog
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000544
+name: Lleyn
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000545
+name: Lohi
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000546
+name: Lonk
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000547
+name: Luzein
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000548
+name: Maltese
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000549
+name: Manchega
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000550
+name: Manech
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000551
+name: Manx Loaghtan
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000552
+name: Masai
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000553
+name: Massese
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000554
+name: Medium-Wool Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000555
+name: Mehraban
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000556
+name: Merinizzata Italiana
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000557
+name: Merinolandschaf
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000558
+name: Moghani
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000559
+name: Montadale
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000560
+name: Morada Nova
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000561
+name: Mouflon
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000562
+name: Navajo-Churro
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000563
+name: Nellore
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000564
+name: Norfolk Horn
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000565
+name: North Country Cheviot
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000566
+name: North Ronaldsay
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000567
+name: Norwegian Fur
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000568
+name: Old Norwegian
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000569
+name: Orkney
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000570
+name: Ossimi
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000571
+name: Oxford
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000572
+name: Pag Island
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000573
+name: Pagliarola
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000574
+name: Pelibüey
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000575
+name: Perendale
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000576
+name: Pinzirita
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000577
+name: Pitt Island
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000578
+name: Poll Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000579
+name: Polwarth
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000580
+name: Polypay
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000581
+name: Pomeranian Coarsewool
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000582
+name: Portland
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000583
+name: Priangan
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000584
+name: Qashqai
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000585
+name: Qinghai Black Tibetan
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000586
+name: Qinghai Semifinewool
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000587
+name: Quadrella
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000588
+name: Quanglin Large-Tail
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000589
+name: Rabo Largo
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000590
+name: Racka
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000591
+name: Rambouillet
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000592
+name: Rasa Aragonesa
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000593
+name: Red Engadine
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000594
+name: Red Karaman
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000595
+name: Rhoenschaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000596
+name: Rideau Arcott
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000597
+name: Romanov
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000598
+name: Romney
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000599
+name: Rouge de l'Ouest
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000600
+name: Rouge de Roussillon
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000601
+name: Rough Fell
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000602
+name: Royal White
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000603
+name: Rya
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000604
+name: Ryeland
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000605
+name: Rygja
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000606
+name: Sahel-type
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000607
+name: Sakiz
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000608
+name: Santa Cruz
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000609
+name: Santa Inês
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000610
+name: Sardinian
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000611
+name: Sar Planina
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000612
+name: Scottish Blackface
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000613
+name: Shetland
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000614
+name: Shropshire
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000615
+name: Sicilian Barbary
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000616
+name: Skudde
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000617
+name: Soay
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000618
+name: Somali
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000619
+name: Sopravissana
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000620
+name: South African Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000621
+name: South African Mutton Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000622
+name: South Devon
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000623
+name: South Suffolk
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000624
+name: Southdown
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000625
+name: South Wales Mountain
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000626
+name: Spaelsau
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000627
+name: Spiegel
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000628
+name: St. Croix
+synonym: "Virgin Island White" EXACT []
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000629
+name: Steigar
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000630
+name: Steinschaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000631
+name: Strong Wool Merino
+is_a: LBO:0001067 ! Merino type
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000632
+name: Suffolk
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000633
+name: Sumavska
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000634
+name: Swaledale
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000635
+name: Swedish Fur Sheep
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000636
+name: Swiss Black-Brown Mountain
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000637
+name: Swiss White Alpine
+def: "OBSOLETE (duplicate). See LBO:0001065" []
+is_obsolete: true
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000638
+name: Targhee
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000639
+name: Teeswater
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000640
+name: Texel
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000641
+name: Thalli
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000642
+name: Tong
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000643
+name: Touabire
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000644
+name: Tsurcana
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000645
+name: Tunis
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000646
+name: Tuj
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000647
+name: Turkgeldi
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000648
+name: Tyrol Mountain
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000649
+name: Uda
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000650
+name: Ujumqin
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000651
+name: Ushant
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000652
+name: Valais Blacknose
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000653
+name: Van Rooy
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000654
+name: Vendeen
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000655
+name: Walachenschaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000656
+name: Wallis Country Sheep
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000657
+name: Waziri
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000658
+name: Weisse Hornlose Heidschnucke
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000659
+name: Welsh Hill Speckled Face
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000660
+name: Welsh Mountain
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000661
+name: Welsh Mountain Badger Faced
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000662
+name: Wensleydale
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000663
+name: West African Dwarf
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000664
+name: White Horned Heath Sheep
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000665
+name: White Karaman
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000666
+name: White Suffolk
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000667
+name: Whiteface Dartmoor
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000668
+name: Whiteface Woodland
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000669
+name: Wiltshire Horn
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000670
+name: Xalda
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000671
+name: Xaxi Ardia
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000672
+name: Xinjiang Finewool
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000673
+name: Yankasa
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000674
+name: Yemeni
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000675
+name: Yemen White
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000676
+name: Yiecheng
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000677
+name: Yoroo
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000678
+name: Yunnan Semifinewool
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000679
+name: Zaghawa
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000680
+name: Zagoria
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000681
+name: Zaian
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000682
+name: Zaire Long-Legged
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000683
+name: Zakynthos
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000684
+name: Zeeland Milk
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000685
+name: Zel
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000686
+name: Zelazna
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000687
+name: Zemmour
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000688
+name: Zeta Yellow
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000689
+name: Zlatusha
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000690
+name: Zoulay
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T10:47:24Z
+
+[Term]
+id: LBO:0000691
+name: Erhualian
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:55:09Z
+
+[Term]
+id: LBO:0000692
+name: Landrace
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:55:09Z
+
+[Term]
+id: LBO:0000693
+name: Altamurana
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-09-02T09:39:54Z
+
+[Term]
+id: LBO:0000694
+name: Leicoma
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:55:09Z
+
+[Term]
+id: LBO:0000695
+name: Wild Boar
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2011-08-19T10:55:09Z
+
+[Term]
+id: LBO:0000696
+name: Leicester Longwool
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2012-06-08T03:35:49Z
+
+[Term]
+id: LBO:0000697
+name: Fayoumi
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T11:03:35Z
+
+[Term]
+id: LBO:0000698
+name: North Holland Blue
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T11:03:35Z
+
+[Term]
+id: LBO:0000699
+name: Oh-Shamo
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T11:03:35Z
+
+[Term]
+id: LBO:0000700
+name: Shamo
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2011-08-19T11:03:35Z
+
+[Term]
+id: LBO:0000701
+name: Red Jungle Fowl
+is_a: LBO:0000308 ! Jungle Fowl
+created_by: caripark
+creation_date: 2011-08-19T11:03:43Z
+
+[Term]
+id: LBO:0000702
+name: Latxa
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T11:06:50Z
+
+[Term]
+id: LBO:0000703
+name: Hang
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2012-08-23T09:58:08Z
+
+[Term]
+id: LBO:0000704
+name: Spanish Churra
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2011-08-19T11:06:50Z
+
+[Term]
+id: LBO:0000705
+name: Yushan Black
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2012-08-23T09:58:26Z
+
+[Term]
+id: LBO:0000706
+name: Songliao Black
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2012-08-23T09:59:08Z
+
+[Term]
+id: LBO:0000707
+name: Sutai
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2012-08-23T12:34:16Z
+
+[Term]
+id: LBO:0000708
+name: Bama Xiang
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2012-08-23T12:34:16Z
+
+[Term]
+id: LBO:0000709
+name: Tongcheng
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2012-08-23T02:36:50Z
+
+[Term]
+id: LBO:0000710
+name: Korean native pig
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2012-09-06T10:26:40Z
+
+[Term]
+id: LBO:0000711
+name: Luxi
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2013-03-21T10:00:09Z
+
+[Term]
+id: LBO:0000712
+name: Jiaxian Red
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2013-03-21T10:06:08Z
+
+[Term]
+id: LBO:0000713
+name: horse breed
+is_a: LBO:0000000 ! Breed
+created_by: caripark
+creation_date: 2014-05-29T12:54:19Z
+
+[Term]
+id: LBO:0000714
+name: Abyssinian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000715
+name: Akhal Teke
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000716
+name: Albanian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000717
+name: Altai
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000718
+name: American Cream Draft
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000719
+name: American Creme and White
+synonym: "American Albino" EXACT []
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000720
+name: American Walking Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000721
+name: Andalusian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000722
+name: Andravida
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000723
+name: Anglo-Kabarda
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000724
+name: Appaloosa
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000725
+name: Araappaloosa
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000726
+name: Arabian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000727
+name: Ardennes
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000728
+name: Argentine Criollo
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000729
+name: Asturian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000730
+name: Australian Brumby
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000731
+name: Australian Stock Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000732
+name: Azteca
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000733
+name: Balearic
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000734
+name: Baluchi
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000735
+name: Banker
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000736
+name: Ban-ei
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000737
+name: Barb
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000738
+name: Bashkir
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000739
+name: Bashkir Curly
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000740
+name: Basotho Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000741
+name: Belgian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000742
+name: Bhirum Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000743
+name: Bhotia Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000744
+name: Black Forest
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000745
+name: Boer
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000746
+name: Breton
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000747
+name: Buckskin
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000748
+name: Budyonny
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000749
+name: Byelorussian Harness
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000750
+name: Camargue
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000751
+name: Campolina
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000752
+name: Canadian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000753
+name: Carthusian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000754
+name: Caspian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000755
+name: Cayuse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000756
+name: Cheju
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000757
+name: Chilean Corralero
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000758
+name: Chincoteague Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000759
+name: Cleveland Bay
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000760
+name: Clydesdale
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000761
+name: Colorado Ranger Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000762
+name: Connemara Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000763
+name: Criollo (Uruguay)
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000764
+name: Crioulo
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000765
+name: Dales Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000766
+name: Danube
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000767
+name: Dartmoor Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000768
+name: Deliboz
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000769
+name: Djerma
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000770
+name: Døle
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000771
+name: Dongola
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000772
+name: Dülmen Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000773
+name: Dutch Draft
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000774
+name: Dutch Warmblood
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000775
+name: East Bulgarian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000776
+name: Egyptian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000777
+name: Eriskay Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000778
+name: Estonian Native
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000779
+name: Exmoor Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000780
+name: Faeroes Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000781
+name: Falabella
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000782
+name: Fell Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000783
+name: Finnhorse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000784
+name: Fleuve
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000785
+name: Fouta
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000786
+name: Frederiksborg
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000787
+name: French Saddlebred
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000788
+name: French Trotter
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000789
+name: Friesian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000790
+name: Galiceño
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000791
+name: Galician Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000792
+name: Gelderlander
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000793
+name: Gidran
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000794
+name: Golden American Saddlebred
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000795
+name: Gotland
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000796
+name: Groningen
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000797
+name: Guangxi
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000798
+name: Hackney
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000799
+name: Haflinger
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000800
+name: Hanoverian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000801
+name: Hequ
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000802
+name: Highland Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000803
+name: Hokkaido
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000804
+name: Holsteiner
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000805
+name: Hucul
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000806
+name: Hungarian Warmblood
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000807
+name: Icelandic
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000808
+name: Iomud
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000809
+name: Irish Draught
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000810
+name: Jinzhou
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000811
+name: Jutland
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000812
+name: Kabarda
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000813
+name: Karabair
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000814
+name: Karabakh
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000815
+name: Kazakh
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000816
+name: Kerry Bog Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000817
+name: Kiger Mustang
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000818
+name: Kirdi Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000819
+name: Kisber Felver
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000820
+name: Kiso
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000821
+name: Kladruby
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000822
+name: Knabstrup
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000823
+name: Kushum
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000824
+name: Kustanai
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000825
+name: Latvian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000826
+name: Lithuanian Heavy Draft
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000827
+name: Lipizzan
+synonym: "Lipizzaner" EXACT []
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000828
+name: Lokai
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000829
+name: Losino
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000830
+name: Lusitano
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000831
+name: Malopolski
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000832
+name: Mangalarga
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000833
+name: Marwari
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000834
+name: M'Bayar
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000835
+name: Mérens Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000836
+name: Messara
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000837
+name: Miniature
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000838
+name: Misaki
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000839
+name: Missouri Fox Trotting Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000840
+name: Miyako
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000841
+name: Mongolian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000842
+name: Morab
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000843
+name: Morgan
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000844
+name: Moyle
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000845
+name: Mustang
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000846
+name: Murgese
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000847
+name: National Show Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000848
+name: New Forest Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000849
+name: New Kirgiz
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000850
+name: Newfoundland Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000851
+name: Noma
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000852
+name: Nooitgedacht Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000853
+name: Noric
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000854
+name: Nordland
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000855
+name: Northeastern
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000856
+name: North Swedish Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000857
+name: Norwegian Fjord
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000858
+name: Ob
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000859
+name: Oldenburg
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000860
+name: Orlov Trotter
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000861
+name: Paint
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000862
+name: Palomino
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000863
+name: Pantaneiro
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000864
+name: Paso Fino
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000865
+name: Percheron
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000866
+name: Peruvian Paso
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000867
+name: Pindos Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000868
+name: Pinia
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000869
+name: Pintabian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000870
+name: Pinto
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000871
+name: Polish Konik
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000872
+name: Pony of the Americas
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000873
+name: Pottok
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000874
+name: Przewalski
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000875
+name: Pyrenean Tarpan
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000876
+name: Qatgani
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000877
+name: Quarab
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000878
+name: Quarter Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000879
+name: Quarter Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000880
+name: Racking Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000881
+name: Rocky Mountain Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000882
+name: Russian Don
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000883
+name: Russian Heavy Draft
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000884
+name: Russian Trotter
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:12:39Z
+
+[Term]
+id: LBO:0000885
+name: Saddlebred
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000886
+name: Sanhe
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000887
+name: Schleswiger Heavy Draft
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000888
+name: Selle Francais
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000889
+name: Shagya
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000890
+name: Shetland Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000891
+name: Shire
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000892
+name: Single-Footing Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000893
+name: Skyros Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000894
+name: Somali Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000895
+name: Sorraia
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000896
+name: Soviet Heavy Draft
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000897
+name: Spanish Mustang
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000898
+name: Spanish Barb
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000899
+name: Spanish Norman
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000900
+name: Standardbred
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000901
+name: Sudan Country-Bred
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000902
+name: Suffolk
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000903
+name: Swedish Warmblood
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000904
+name: Taishuh
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000905
+name: Tarpan
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000906
+name: Tawleed
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000907
+name: Tennessee Walking Horse
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000908
+name: Tersk
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000909
+name: Thessalian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000910
+name: Thoroughbred
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000911
+name: Tokara
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000912
+name: Tori
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000913
+name: Trakehner
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000914
+name: Ukrainian Saddle
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000915
+name: Vlaamperd
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000916
+name: Vladimir Heavy Draft
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000917
+name: Vyatka
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000918
+name: Welara Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000919
+name: Welsh Pony and Cob
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000920
+name: West African Barb
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000921
+name: Western Sudan Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000922
+name: Wielkopolski
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000923
+name: Xilingol
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000924
+name: Yakut
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000925
+name: Yanqi
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000926
+name: Yili
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000927
+name: Yonaguni
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000928
+name: Zaniskari Pony
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000929
+name: Zhemaichu
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:20:00Z
+
+[Term]
+id: LBO:0000930
+name: South German Coldblood
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-05-29T01:25:11Z
+
+[Term]
+id: LBO:0000931
+name: Rhenish German Coldblood
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-07-10T01:39:51Z
+
+[Term]
+id: LBO:0000932
+name: Swiss Warmblood
+synonym: "Einsiedler" EXACT []
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2014-07-14T09:25:31Z
+
+[Term]
+id: LBO:0000933
+name: Pulawska
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2014-11-10T02:56:21Z
+
+[Term]
+id: LBO:0000934
+name: Valdostana Red Pied
+synonym: "Valdostana Pezzata Rossa" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2015-01-09T10:06:59Z
+
+[Term]
+id: LBO:0000935
+name: Anglo-Arabian
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2015-01-22T09:08:04Z
+
+[Term]
+id: LBO:0000936
+name: Belgian Warmblood
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2015-01-22T09:11:14Z
+
+[Term]
+id: LBO:0000937
+name: American Braford
+synonym: "Braford" EXACT []
+is_a: LBO:0000057 ! Braford
+created_by: caripark
+creation_date: 2015-07-07T11:34:58Z
+
+[Term]
+id: LBO:0000938
+name: Naked Neck
+def: "OBSOLETE. Replace with LBO:0000320." []
+is_obsolete: true
+created_by: caripark
+creation_date: 2015-07-07T12:37:17Z
+
+[Term]
+id: LBO:0000939
+name: Neijiang
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2015-07-07T12:52:13Z
+
+[Term]
+id: LBO:0000940
+name: Berrichon du Cher
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2015-07-07T01:19:00Z
+
+[Term]
+id: LBO:0000941
+name: Fleckvieh
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2015-07-07T01:19:56Z
+
+[Term]
+id: LBO:0000942
+name: Hanwoo
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2015-07-07T01:21:30Z
+
+[Term]
+id: LBO:0000943
+name: Göttingen Minipig
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2015-07-07T01:22:43Z
+
+[Term]
+id: LBO:0000944
+name: Schwarzwälder Fuchs
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2015-07-07T01:51:51Z
+
+[Term]
+id: LBO:0000945
+name: German Warmblood
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2015-07-07T02:35:19Z
+
+[Term]
+id: LBO:0000946
+name: Freiberger
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2015-07-07T02:36:08Z
+
+[Term]
+id: LBO:0000947
+name: Andean
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2015-07-07T02:36:55Z
+
+[Term]
+id: LBO:0000948
+name: Beijing You
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2015-07-07T02:38:35Z
+
+[Term]
+id: LBO:0000949
+name: Tropical Composite
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2015-07-07T02:39:53Z
+
+[Term]
+id: LBO:0000950
+name: Laiwu
+synonym: "Laiwu black pig" EXACT []
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2015-07-22T09:33:12Z
+
+[Term]
+id: LBO:0000951
+name: Belclare
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2015-08-21T10:17:20Z
+
+[Term]
+id: LBO:0000952
+name: Préalpes
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2015-12-11T11:10:47Z
+
+[Term]
+id: LBO:0000953
+name: Comtois
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2015-12-11T11:11:58Z
+
+[Term]
+id: LBO:0000954
+name: goat breed
+is_a: LBO:0000000 ! Breed
+created_by: caripark
+creation_date: 2015-12-11T11:15:26Z
+
+[Term]
+id: LBO:0000955
+name: Alpine
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000956
+name: Altai Mountain
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000957
+name: American Cashmere
+is_a: LBO:0001101 ! Cashmere
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000958
+name: Anglo-Nubian
+synonym: "Nubian" EXACT []
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000959
+name: Angora
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000960
+name: Appenzell
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000961
+name: Arapawa Island
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000962
+name: Australian Goat
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000963
+name: Bagot
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000964
+name: Barbari
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000965
+name: Beetal
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000966
+name: Belgian Fawn
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000967
+name: Benadir
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000968
+name: Bhuj
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000969
+name: Boer
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000970
+name: Booted Goat
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000971
+name: British Alpine
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000972
+name: Canary Island
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000973
+name: Canindé
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000974
+name: Chapar
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000975
+name: Corsican
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000976
+name: Daera Din Panah
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000977
+name: Damani
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000978
+name: Danish Landrace
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000979
+name: Don
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000980
+name: Dutch Landrace
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000981
+name: Erzgebirg
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000982
+name: Finnish Landrace
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:44:09Z
+
+[Term]
+id: LBO:0000983
+name: Golden Guernsey
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000984
+name: Grisons Striped
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000985
+name: Hailun
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000986
+name: Haimen
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000987
+name: Hasi
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000988
+name: Hejazi
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000989
+name: Hexi Cashmere
+is_a: LBO:0001101 ! Cashmere
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000990
+name: Hongtong
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000991
+name: Huaipi
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000992
+name: Huaitoutala
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000993
+name: Hungarian Improved
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000994
+name: Irish Goat
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000995
+name: Jining Grey
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000996
+name: Kaghani
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000997
+name: Kamori
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000998
+name: Kiko
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0000999
+name: Kinder
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001000
+name: LaMancha
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001001
+name: Loashan
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001002
+name: Moxotó
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001003
+name: Murcia-Granada
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001004
+name: Myotonic
+synonym: "Tennessee fainting goat" EXACT []
+synonym: "Wooden Leg" EXACT []
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001005
+name: Nachi
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001006
+name: Nigerian Dwarf
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001007
+name: Norwegian
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001008
+name: Oberhasli
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001009
+name: Peacock Goat
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001010
+name: Philippine
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001011
+name: Poitou
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001012
+name: Pygmy
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001013
+name: Pyrenean
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T12:54:32Z
+
+[Term]
+id: LBO:0001014
+name: Qinshan
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001015
+name: Repartida
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001016
+name: Russian White
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001017
+name: Saanen
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001018
+name: Sahelian
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001019
+name: San Clemente
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001020
+name: Somali
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001021
+name: Spanish
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001022
+name: SRD
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001023
+name: Swedish Landrace
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001024
+name: Uzbek Black
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001025
+name: Thuringian
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001026
+name: Toggenburg
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001027
+name: Valais Blackneck
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001028
+name: Verata
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001029
+name: West African Dwarf
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001030
+name: White Shorthaired Goat
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001031
+name: Xinjiang
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001032
+name: Xuhai
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001033
+name: Yemen Mountain
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001034
+name: Zhongwei
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2015-12-11T01:02:07Z
+
+[Term]
+id: LBO:0001035
+name: Swabian Hall
+def: "OBSOLETE. Replace with LBO:0000400." []
+synonym: "Schwäbisch-Hällische Landschwein" EXACT []
+synonym: "Swabian-Hall swine" EXACT []
+is_obsolete: true
+created_by: caripark
+creation_date: 2015-12-21T03:18:44Z
+
+[Term]
+id: LBO:0001036
+name: Cattle crossbreed
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2016-03-31T04:27:21Z
+
+[Term]
+id: LBO:0001037
+name: Chicken crossbreed
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2016-03-31T04:28:03Z
+
+[Term]
+id: LBO:0001038
+name: Goat crossbreed
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2016-03-31T04:28:20Z
+
+[Term]
+id: LBO:0001039
+name: Horse crossbreed
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2016-03-31T04:28:32Z
+
+[Term]
+id: LBO:0001040
+name: Pig crossbreed
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2016-03-31T04:28:49Z
+
+[Term]
+id: LBO:0001041
+name: Sheep crossbreed
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2016-03-31T04:29:02Z
+
+[Term]
+id: LBO:0001042
+name: buffalo breed
+is_a: LBO:0000000 ! Breed
+created_by: caripark
+creation_date: 2016-04-14T02:37:37Z
+
+[Term]
+id: LBO:0001043
+name: Mediterranean
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:38:56Z
+
+[Term]
+id: LBO:0001044
+name: Pandharpuri
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:38:56Z
+
+[Term]
+id: LBO:0001045
+name: Jafarabadi
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:38:56Z
+
+[Term]
+id: LBO:0001046
+name: Bhadawari
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:38:56Z
+
+[Term]
+id: LBO:0001047
+name: Banni
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:38:56Z
+
+[Term]
+id: LBO:0001048
+name: Surati
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:38:56Z
+
+[Term]
+id: LBO:0001049
+name: Murrah
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:38:56Z
+
+[Term]
+id: LBO:0001050
+name: Egyptian
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:44:55Z
+
+[Term]
+id: LBO:0001051
+name: Kundhi
+synonym: "Kundi" EXACT []
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:44:55Z
+
+[Term]
+id: LBO:0001052
+name: Malaysian
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:44:55Z
+
+[Term]
+id: LBO:0001053
+name: Nili-Ravi
+is_a: LBO:0001042 ! buffalo breed
+created_by: caripark
+creation_date: 2016-04-14T02:44:55Z
+
+[Term]
+id: LBO:0001054
+name: Chèvre des Fossés
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2016-04-29T01:09:38Z
+
+[Term]
+id: LBO:0001055
+name: Créole
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2016-04-29T01:09:38Z
+
+[Term]
+id: LBO:0001056
+name: Lorraine
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2016-04-29T01:09:38Z
+
+[Term]
+id: LBO:0001057
+name: Massif Central
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2016-04-29T01:09:38Z
+
+[Term]
+id: LBO:0001058
+name: Péi
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2016-04-29T01:09:38Z
+
+[Term]
+id: LBO:0001059
+name: Provençale
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2016-04-29T01:09:38Z
+
+[Term]
+id: LBO:0001060
+name: Rove
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2016-04-29T01:09:38Z
+
+[Term]
+id: LBO:0001061
+name: White Leghorn
+is_a: LBO:0000315 ! Leghorn
+created_by: caripark
+creation_date: 2016-08-01T03:45:55Z
+
+[Term]
+id: LBO:0001062
+name: Spanish Assaf
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2016-12-06T08:46:24Z
+
+[Term]
+id: LBO:0001063
+name: Vorderwald
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2017-01-09T10:56:13Z
+
+[Term]
+id: LBO:0001064
+name: Jeju
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2017-11-21T10:33:15Z
+
+[Term]
+id: LBO:0001065
+name: Swiss White Alpine
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2017-12-20T12:49:27Z
+
+[Term]
+id: LBO:0001066
+name: Menorquín
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2018-01-24T13:42:10Z
+
+[Term]
+id: LBO:0001067
+name: Merino type
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2018-01-29T10:15:21Z
+
+[Term]
+id: LBO:0001068
+name: Hair sheep breed
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2018-01-29T10:21:39Z
+
+[Term]
+id: LBO:0001069
+name: Blackhead Persian
+is_a: LBO:0001068 ! Hair sheep breed
+created_by: caripark
+creation_date: 2018-01-29T10:28:41Z
+
+[Term]
+id: LBO:0001070
+name: Empordanesa
+synonym: "Empordanesa Roja" NARROW []
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2018-04-24T12:24:54Z
+
+[Term]
+id: LBO:0001071
+name: Penedesenca
+synonym: "Penedesenca Negra" RELATED []
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2018-04-24T12:30:12Z
+
+[Term]
+id: LBO:0001072
+name: Lacaune
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2018-05-03T15:09:42Z
+
+[Term]
+id: LBO:0001073
+name: Duolang
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2018-07-17T08:31:27Z
+
+[Term]
+id: LBO:0001074
+name: Casertana
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2018-09-06T13:54:30Z
+
+[Term]
+id: LBO:0001075
+name: Valle del Belice
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2018-11-21T11:49:09Z
+
+[Term]
+id: LBO:0001076
+name: Scandinavian Coldblood Trotter
+def: "May belong to ether of two closely related and interconnected breeds: Norsk Kalkblodstraver (Norwegian Coldblood Trotter) or Svensk Kallblodstravare (Swedish Coldblood Trotter)" [https://en.wikipedia.org/wiki/Scandinavian_coldblood_trotter]
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2018-11-21T13:23:01Z
+
+[Term]
+id: LBO:0001077
+name: White Composite
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2019-01-14T09:12:12Z
+
+[Term]
+id: LBO:0001078
+name: Kazakh Whiteheaded
+def: "Hardy beef breed from Russia and Kazakhstan." [http://en.wikipedia.org/wiki/Kazakh_Whiteheaded]
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2019-04-18T14:17:19Z
+
+[Term]
+id: LBO:0001079
+name: German Black Pied
+def: "Dairy breed that originated in the North Sea coast regions of northern Germany and the Netherlands." [http://en.wikipedia.org/wiki/German_Black_Pied_cattle]
+synonym: "Deutsches Schwarzbuntes Niederungsrind" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2019-04-19T13:16:13Z
+
+[Term]
+id: LBO:0001080
+name: Rendena
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2019-06-18T09:58:06Z
+
+[Term]
+id: LBO:0001081
+name: Sushan
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2019-06-18T10:19:21Z
+
+[Term]
+id: LBO:0001082
+name: Sujiang
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2019-07-26T13:14:53Z
+
+[Term]
+id: LBO:0001083
+name: Jing Hong
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2019-07-26T13:16:25Z
+
+[Term]
+id: LBO:0001084
+name: Jiangquhai
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2019-07-26T13:58:32Z
+
+[Term]
+id: LBO:0001085
+name: Muzaffarnagari
+def: "Largest and heaviest sheep breed in India; well-adapted to heat and humidity." [https://doi.org/10.1017/S1014233900001322]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2020-01-29T09:34:51Z
+
+[Term]
+id: LBO:0001086
+name: Malpura
+def: "Native Indian breed with good wool and milk production." [https://www.sheepfarm.in/malpura-sheep-breed-profile-information]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2020-01-29T09:41:07Z
+
+[Term]
+id: LBO:0001087
+name: Barki
+def: "One of the main sheep breeds in Egypt, well-adapted to the desert environment." [PMID:31979402]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2020-02-03T16:31:37Z
+
+[Term]
+id: LBO:0001088
+name: Nagoya
+def: "Japanese dual-purpose breed; excellent layers of light brown eggs" [https://www.domesticforest.com/nagoya-chicken/]
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2020-03-02T09:25:05Z
+
+[Term]
+id: LBO:0001089
+name: Polverara
+def: "Ancient Italian dual-purpose crested chicken breed; has two recognized colors, black and white." [https://en.wikipedia.org/wiki/Polverara_chicken]
+synonym: "S'ciata" EXACT []
+synonym: "Schiatta" EXACT []
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2020-03-26T14:32:24Z
+
+[Term]
+id: LBO:0001090
+name: Romane
+def: "Breed resulting from successive crosses between 1/2 Romanov and 1/2 Berrichon du Cher animals (formerly INRA 401)." [VTO:CP]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2020-07-28T15:36:44Z
+
+[Term]
+id: LBO:0001091
+name: Savanna
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2020-12-02T10:27:48Z
+
+[Term]
+id: LBO:0001092
+name: Kalahari Red
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2020-12-02T11:21:40Z
+
+[Term]
+id: LBO:0001093
+name: Australian Red
+def: "Dairy breed combining an extensive infusion of Scandinavian Red genetics with other Australian Red breeds such as Ayrshire, Dairy or Milking Shorthorn, Illawarra, or Red and White Holstein." [https://www.aussiereds.com.au/pages/breed-introduction.php]
+synonym: "Aussie Red" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2021-01-06T12:48:51Z
+
+[Term]
+id: LBO:0001094
+name: Girolando
+def: "Brazilian dairy breed created by crossing Gir and Holstein (3/8 Gir, 5/8 Holstein)" [https://www.thecattlesite.com/breeds/dairy/73/girolando/]
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2021-03-03T13:27:24Z
+
+[Term]
+id: LBO:0001095
+name: Blanche du Massif Central
+def: "French sheep breed originating from the southern part of the Massif Central. Known for its hardiness and adaptibility to harsh conditions." [https://fr.wikipedia.org/wiki/Blanche_du_Massif_central]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2021-06-14T13:41:30Z
+
+[Term]
+id: LBO:0001096
+name: Noire du Velay
+def: "Hardy French breed characterized by brownish-black wool, prolificacy, and good milk production." [https://fr.wikipedia.org/wiki/Noire_du_Velay]
+synonym: "Black Velay" EXACT []
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2021-06-14T13:46:53Z
+
+[Term]
+id: LBO:0001097
+name: Zebu
+def: "Heat tolerant, hardy breed used for milk, meat and draft; usually red or gray in color with horns, loose skin, large ears, and a hump above their shoulders. NOTE: \"Zebu\" can also be used as a general term for breeds such as Brahman, Gir, Guzera, and Nelore." [https://www.thecattlesite.com/breeds/beef/76/zebu/]
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2021-07-20T09:11:09Z
+
+[Term]
+id: LBO:0001098
+name: Assaf
+def: "Israeli sheep breed that is a product of crossbreeding Awassi and East Friesian; dual purpose milk and meat breed with white wool" [https:en.wikipedia.org/wiki/Assaf_sheep]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2021-07-20T15:23:40Z
+
+[Term]
+id: LBO:0001099
+name: Vrindavani
+def: "Composite Indian breed with 50-75% Bos taurus ancestry (Holstein-Friesian, Brown Swiss, Jersey) and 25-50% Bos indicus (Hariana)" [http://allpedia.dkart.in/livestock/breeds/cattle-breeds/9695-vrindavani-cattle.html]
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2021-08-25T08:33:40Z
+
+[Term]
+id: LBO:0001100
+name: Luchuan
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2021-11-16T10:14:39Z
+
+[Term]
+id: LBO:0001101
+name: Cashmere
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2022-02-03T14:54:23Z
+
+[Term]
+id: LBO:0001102
+name: Westphalian
+synonym: "Westfalen" EXACT []
+is_a: LBO:0000713 ! horse breed
+created_by: caripark
+creation_date: 2022-02-04T09:21:46Z
+
+[Term]
+id: LBO:0001103
+name: Alpine Gray
+synonym: "Grigio alpina" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2022-02-14T11:08:37Z
+
+[Term]
+id: LBO:0001104
+name: Frieswal
+def: "Holstein x Sahiwal crossbred" [https://circ.icar.gov.in/division.php?DId=24&RMFlag=1]
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2022-02-16T11:12:14Z
+
+[Term]
+id: LBO:0001105
+name: Rahmani
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2022-02-28T15:38:51Z
+
+[Term]
+id: LBO:0001106
+name: Sable
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2022-03-08T09:47:01Z
+
+[Term]
+id: LBO:0001107
+name: Australian White
+def: "Australian meat sheep breed derived from selective breeding of White Dorper, Van Rooy, Poll Dorset, and Texel." [https:<new dbxref>//en.wikipedia.org/wiki/Australian_White_sheep]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2022-04-11T13:08:15Z
+
+[Term]
+id: LBO:0001108
+name: Harnali
+def: "Fast-growing meat and wool breed developed in India by crossing Nali, Merino and Corriedale with inheritance of 37.5% Nali and 62.5% exotic inheritance." [http://allpedia.dkart.in/livestock/breeds/sheep-breeds/9578-harnali-sheep.html]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2022-04-20T11:29:21Z
+
+[Term]
+id: LBO:0001109
+name: Suhuai
+def: "Chinese breed comprised of 25% Chinese Huai and 75% Large White" [https://www.researchgate.net/publication/336808273_Association_of_Twelve_Candidate_Gene_Polymorphisms_with_the_Intramuscular_Fat_Content_and_Average_Backfat_Thickness_of_Chinese_Suhuai_Pigs]
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2022-06-17T14:15:27Z
+
+[Term]
+id: LBO:0001110
+name: Qingping
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2022-06-23T14:33:42Z
+
+[Term]
+id: LBO:0001111
+name: Lingkun
+synonym: "LingKun" EXACT []
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2022-07-22T15:08:45Z
+
+[Term]
+id: LBO:0001112
+name: Jining Bairi
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2022-08-19T08:48:48Z
+
+[Term]
+id: LBO:0001113
+name: Saba
+def: "Chinese indigenous breed known for high prolificacy, superior meat quality, and adaptation to harsh environments." [PMID:35971078]
+is_a: LBO:0000003 ! pig breed
+created_by: caripark
+creation_date: 2022-09-28T12:24:40Z
+
+[Term]
+id: LBO:0001114
+name: Qingyuan Partridge
+def: "Chinese indigenous breed from Qingyuan County, Guangdong Province." [http://allpedia.dkart.in/livestock/breeds/chicken-breeds/10374-qingyuan-partidge-chicken.html]
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2022-11-17T09:41:21Z
+
+[Term]
+id: LBO:0001115
+name: Mecheri
+def: "Medium-sized, light brown sheep breed native to India; body is covered with very short hair which is not shorn; skin highly prized for leather." [https://www.sheepfarm.in/mecheri-sheep-breed-profile-information]
+is_a: LBO:0000004 ! sheep breed
+created_by: caripark
+creation_date: 2023-02-09T14:32:09Z
+
+[Term]
+id: LBO:0001116
+name: Romanian Brown
+def: "Local Romanian milk breed, the result of crossbreeding between Braunvieh and local Mocanita and Grey cattle." [PMID:37174521]
+synonym: "Bruna de Maramures" EXACT []
+is_a: LBO:0000001 ! cattle breed
+created_by: caripark
+creation_date: 2023-05-16T13:10:02Z
+
+[Term]
+id: LBO:0001117
+name: Raini Cashmere
+def: "Indigenous goat breed from Iran that produces high-quality cashmere." [https://www.iga-goatworld.com/blog/the-status-of-raeini-cashmere-goat-raising-in-kerman-province]
+synonym: "Raeini Cashmere" EXACT []
+is_a: LBO:0001101 ! Cashmere
+created_by: caripark
+creation_date: 2023-06-02T14:22:10Z
+
+[Term]
+id: LBO:0001118
+name: Central Highland
+def: "Ethiopian goat breed related to Western Highland and Keffa." [http://allpedia.dkart.in/livestock/breeds/goat-breeds/9326-central-highland-goat.html]
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2023-06-05T07:32:04Z
+
+[Term]
+id: LBO:0001119
+name: Markhoz
+def: "Indigenous Iranian breed raised for meat, milk, and fiber (mohair)." [https://www.iga-goatworld.com/blog/the-status-of-markhoz-goat-rearing-in-kurdistan-province]
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2023-06-07T09:01:22Z
+
+[Term]
+id: LBO:0001120
+name: Sirohi
+def: "Dual-purpose (milk and meat) breed indigenous to India." [https://en.wikipedia.org/wiki/Sirohi_goat]
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2023-06-07T09:18:54Z
+
+[Term]
+id: LBO:0001121
+name: Ogye
+def: "Extremely rare, dual-purpose breed that originated in South Korea." [https:www.domesticforest.com/ogye-chicken/]
+is_a: LBO:0000002 ! chicken breed
+created_by: caripark
+creation_date: 2023-08-03T14:11:35Z
+
+[Term]
+id: LBO:0001122
+name: Adani
+def: "Iranian dual-purpose native breed, resilient to harsh environments." [https://www.iga-goatworld.com/blog/the-status-of-adani-goat-rearing-in-bushehr-province]
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2023-09-11T09:46:41Z
+
+[Term]
+id: LBO:0001123
+name: Assam Hill
+def: "Dual-purpose, medium-sized goat breed from India." [https://www.tribecreek.com/2023/05/27/assam-hill/]
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2023-09-12T13:52:34Z
+
+[Term]
+id: LBO:0001124
+name: Brown Shorthair
+def: "Czech breed originated from a native breed improved by crossing with German Brown bucks." [https://breeds.okstate.edu/goats/brown-shorthair-goats.html]
+is_a: LBO:0000954 ! goat breed
+created_by: caripark
+creation_date: 2023-10-26T12:54:00Z
+
