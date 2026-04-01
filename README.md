@@ -12,5 +12,12 @@ The LBO is protected with <a href="https://creativecommons.org/licenses/by-nc/4.
 
 Project home: https://www.animalgenome.org/bioinfo/projects/lbo/
 
+### Technical Notes:
+
+#### File Structure
+    /archive/ : prior to Dec.2023 releases; each marked with incremental numbers
+    /current_release/ : for AgroPortal data sync
+    /releases/ : since 2024 - version format in yyyy-mm-dd, good for OBO Foundry and others
+
 --
 Bioinfo-Team@animalgenome.org
